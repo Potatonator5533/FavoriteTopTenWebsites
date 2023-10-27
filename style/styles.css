@@ -17,3 +17,9 @@ body{
     width: 200px;
     height: 50px;
 }
+
+.divider{
+    width: 200px;
+    height:auto;
+    display:inline-block;
+}
