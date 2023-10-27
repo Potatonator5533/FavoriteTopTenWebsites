@@ -1,0 +1,19 @@
+body{
+    background-color: #A7A7A7;
+}
+
+.header{
+    font-size: 64px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.headerColor{
+    background-color: #009E95;
+}
+
+.homeBtn{
+    width: 200px;
+    height: 50px;
+}
