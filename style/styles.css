@@ -16,4 +16,11 @@ body{
 .homeBtn{
     width: 200px;
     height: 50px;
+    font-size: 40px;
+}
+
+.baseText{
+    font-size: 32px;
+    color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
