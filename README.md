@@ -9,7 +9,7 @@ Peer Review Notes: The website looks good and works in both Deasktop and Tablet 
 the top of the page to the bottom with the pagination so also the title won't go onto the next line. But other then that it looks good. Also, filling in the top above the navbar by manipulating the background rectangle would smoothen out the pages, but only do that if you have time.
 
 Peer Reviewer: Josue Rosales
-Peer Review Notes:
+Peer Review Notes: Alexander’s top ten category was Splatoon 3 weapons and reading through his pages, even though I have played the game sometimes, I needed to look up a few words that he used that are part of the game. Someone who has no idea what Splatoon is may get completely lost in the words but those who often play Splatoon will understand. Otherwise, I think his pages look great and everything works as intended.
 
 Peer Reviewer: Alexander Soria
 Peer Review Notes:
