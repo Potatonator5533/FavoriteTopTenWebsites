@@ -1,6 +1,8 @@
-Favorite Top Ten Websites
 Alexander Soria, Josue Rosales
+10/28/2023
+Favorite Top Ten Websites
 This website contains a top 10 list each selected of our own choosing, with images and videos going along with descriptions of our top 10.
+Figma link: https://www.figma.com/file/6yeyleOF4DmzwsqWCOgLz3/Top-10?type=design&node-id=0-1&mode=design&t=N4JwxjPciuYbawDl-0
 
 Peer Reviewer: Aiden Foo
 Peer Review Notes: The website looks good and works in both Deasktop and Tablet modes, the only thing I would change is the lcation of the Home button from
