@@ -26,7 +26,16 @@ body{
 }
 
 .baseText{
-    font-size: 32px;
+    font-size: 28px;
     color: black;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* .vid-margin{
+    margin-top: px;
+} */
+
+.center{
+    margin: auto;    
+    display: block;
 }
