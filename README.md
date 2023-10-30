@@ -10,6 +10,3 @@ the top of the page to the bottom with the pagination so also the title won't go
 
 Peer Reviewer: Josue Rosales
 Peer Review Notes: Alexander’s top ten category was Splatoon 3 weapons and reading through his pages, even though I have played the game sometimes, I needed to look up a few words that he used that are part of the game. Someone who has no idea what Splatoon is may get completely lost in the words but those who often play Splatoon will understand. Otherwise, I think his pages look great and everything works as intended.
-
-Peer Reviewer: Alexander Soria
-Peer Review Notes:
